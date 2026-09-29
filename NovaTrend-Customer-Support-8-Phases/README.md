@@ -4,7 +4,7 @@ AI FAQ Assistant – Customer Support Chatbot for **NovaTrend Fashion & Electron
 
 **Team members:** Alia Fathima S, Ammu S, Anisa Begam A, Basilath Unnisha J, Syed Ali Fathima Z
 
-The application source code lives in the root of this repository ([novatrend-ai-faq-](https://github.com/basilathunnisha2007-crypto/novatrend-ai-faq-)).
+The application source code lives in the [novatrend-ai-faq-](https://github.com/basilathunnisha2007-crypto/novatrend-ai-faq-) repository.
 This folder holds the project deliverables, one folder per phase:
 
 | # | Phase | Contents |
